@@ -3,7 +3,6 @@
 
 **This repo consists of:**
 ## 1. Flack REST api to receive the image files and store them. Uses JWT tokens and throttle limiter.
-
   #### Throttle test script also included.
   
   
