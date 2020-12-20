@@ -2,7 +2,7 @@
 ###Image upload app built on flask REST api, react, JWT
 
 **This repo consists of:**
-## 1. Flask REST api to receive the image files and store them. Uses JWT tokens and throttle limiter.
+## 1. Flask API to receive the image files and store them. Uses JWT tokens and throttle limiter.
   #### Throttle test script also included.
   
   
